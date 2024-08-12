@@ -29,7 +29,11 @@ To set up this project locally, follow these steps:
    ```
    npm install react react-dom react-scripts express cors dotenv openai
    ```
-4. Start the development server:
+4. Start the server:
+   ```
+   node server.js
+   ```  
+5. Start the development server:
    ```
    npm start
    ```
