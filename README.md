@@ -11,7 +11,6 @@ This project is a Real Time Website Builder, allowing users to create and edit w
 
 - Real-time website editing
 - Live preview of changes
-- [Add more features as they become available]
 
 ## Installation
 
