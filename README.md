@@ -1,5 +1,3 @@
-# real_time_website_b
-
 Real Time Website Builder
 =======
 
@@ -23,6 +21,10 @@ To set up this project locally, follow these steps:
 2. Navigate to the project directory:
    ```
    cd real_time_website_b
+   ```
+3. Set Your OpenAI API Key:
+   ```
+   set your API Key in Server -> .env
    ```
 3. Install dependencies:
    ```
