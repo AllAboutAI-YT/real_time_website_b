@@ -1,23 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import LiveRenderer from './components/LiveRenderer';
+import './styles/LiveRenderer.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App" style={{ height: '100vh', overflow: 'hidden' }}>
+      <h1 style={{ margin: '10px 0', padding: '0 10px' }}>Real Time Website Builder</h1>
+      <LiveRenderer />
     </div>
   );
 }
