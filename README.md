@@ -27,7 +27,7 @@ To set up this project locally, follow these steps:
    ```
 3. Install dependencies:
    ```
-   npm install
+   npm install react react-dom react-scripts express cors dotenv openai
    ```
 4. Start the development server:
    ```
