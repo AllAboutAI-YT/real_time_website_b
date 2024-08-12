@@ -33,19 +33,3 @@ To set up this project locally, follow these steps:
    ```
    npm start
    ```
-
-## Usage
-
-[Add instructions on how to use your application]
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Add your license information here]
-
-## Contact
-
-[Add your contact information or links to social media profiles]
